@@ -1,0 +1,29 @@
+SAVE THIS FILE AS: manifest.json
+==================================
+{
+  "name": "Nail Studio Nicosia",
+  "short_name": "Nail Studio",
+  "description": "Nicosia's finest nail studio — professional manicure, pedicure, gel nails, extensions and nail art in Cyprus. Open Mon–Sat 8AM–9PM.",
+  "start_url": "/index.html",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#7D2E46",
+  "background_color": "#FAF6F2",
+  "lang": "en",
+  "categories": ["beauty", "lifestyle", "health"],
+  "icons": [
+    { "src": "assets/favicon/favicon-16x16.png", "sizes": "16x16", "type": "image/png", "purpose": "any" },
+    { "src": "assets/favicon/favicon-32x32.png", "sizes": "32x32", "type": "image/png", "purpose": "any" },
+    { "src": "assets/favicon/apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "assets/favicon/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Book Now", "short_name": "Book", "description": "Book your nail appointment online", "url": "/booking.html" },
+    { "name": "Our Services", "short_name": "Services", "description": "Browse all nail services", "url": "/services.html" },
+    { "name": "Gallery", "short_name": "Gallery", "description": "View our nail art portfolio", "url": "/portfolio.html" },
+    { "name": "Contact Us", "short_name": "Contact", "description": "Find us in Nicosia, Cyprus", "url": "/contact.html" }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false
+}

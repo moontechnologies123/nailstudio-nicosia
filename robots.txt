@@ -1,0 +1,50 @@
+SAVE THIS FILE AS: robots.txt
+==============================
+# ═══════════════════════════════════════════════════════════════
+# NAIL STUDIO NICOSIA — ROBOTS.TXT
+# Built by Moon Technologies — Cyprus
+# ═══════════════════════════════════════════════════════════════
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /drafts/
+Disallow: /.git/
+Crawl-delay: 10
+Sitemap: https://nailstudio-nicosia.github.io/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Googlebot-Image
+Allow: /assets/images/
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 10
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /

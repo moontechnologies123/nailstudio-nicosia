@@ -1,0 +1,25 @@
+SAVE THIS FILE AS: assets/css/print.css
+=========================================
+(Place inside your assets/css/ folder)
+
+[COPY THE FULL print.css CODE FROM THE CHAT ABOVE - Phase 4 Step 4.3]
+
+QUICK REMINDER — This file contains:
+- All styles inside @media print {}
+- Print Reset (transparent backgrounds, black text, no shadows)
+- Hide: nav, floating buttons, cookie banner, video, maps, Calendly, gallery filters, before/after sliders, CTA banners, social feeds
+- Typography: Georgia serif, pt-based font scale
+- Layout: all grids collapse to single column
+- Navigation: minimal header with dark logo only
+- Business Contact Block: CSS ::after injects address + phone + hours on every printed page
+- Page Structure: simplified heroes, text-only
+- Images: controlled sizing, team photos kept
+- Links: full URLs printed after non-button links
+- Pricing Tables: clean black & white
+- FAQ Accordion: all answers forced open
+- Footer: simplified 2-column print version
+- Page Breaks: prevents mid-card breaks
+- Print-only elements visible
+
+NOTE: The full CSS code was provided in the chat.
+Copy it exactly from Phase 4 - Step 4.3 output.

@@ -1,0 +1,26 @@
+SAVE THIS FILE AS: assets/css/animations.css
+=============================================
+(Place inside your assets/css/ folder)
+
+[COPY THE FULL animations.css CODE FROM THE CHAT ABOVE - Phase 4 Step 4.2]
+
+QUICK REMINDER — This file contains:
+- All wrapped in @media (prefers-reduced-motion: no-preference)
+- 20+ @keyframe definitions (fadeIn, slideUp, scaleIn, pulse, bounce, shimmer, float, kenBurns, scrollBounce, whatsappPulse, etc.)
+- Navigation entrance animations
+- Hero staggered entrance sequence
+- Scroll reveal animation variants
+- Card hover micro-interactions (spring physics)
+- Button ripple effects
+- Gallery filter transitions
+- Before/After slider animations
+- Testimonials slider transitions
+- Stats counter animations
+- Back-to-top button animations
+- Cookie banner slide-up
+- Lightbox open/close animations
+- Mobile menu staggered link entrance
+- Reduced motion safety net (outside media query)
+
+NOTE: The full CSS code was provided in the chat.
+Copy it exactly from Phase 4 - Step 4.2 output.
